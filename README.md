@@ -1,0 +1,2 @@
+# tedi-project
+cv/protofolio
